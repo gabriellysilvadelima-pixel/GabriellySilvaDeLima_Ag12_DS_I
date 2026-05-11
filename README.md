@@ -21,6 +21,8 @@ Este repositório contém o código-fonte de uma página web simples desenvolvid
 ## Demonstração
 
 ![Screenshot da Página](Captura-de-tela.png)
+![Screenshot da Página](Captura-de-tela-site-1.png)
+![Screenshot da Página](Captura-de-tela-site-2.png)
 
 ## Como visualizar o projeto
 
