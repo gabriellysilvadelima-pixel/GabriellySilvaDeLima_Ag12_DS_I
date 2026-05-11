@@ -23,9 +23,3 @@ Este repositório contém o código-fonte de uma página web simples desenvolvid
 ![Screenshot da Página](Captura-de-tela.png)
 ![Screenshot da Página](Captura-de-tela-site-1.png)
 ![Screenshot da Página](Captura-de-tela-site-2.png)
-
-## Como visualizar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/meus-sites-favoritos.git](https://github.com/seu-usuario/meus-sites-favoritos.git)
